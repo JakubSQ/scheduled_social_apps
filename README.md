@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # scheduled_social_apps
+
+checking mac connectivity
